@@ -1,10 +1,6 @@
 # 2048
 The classic 2048 game designed to play on the terminal.
 
-Running steps: 
-javac Game2048.java
-java Game2048
-
 Overview of features:
 The src file contains two classes - Game2048 and Board2048.
 
